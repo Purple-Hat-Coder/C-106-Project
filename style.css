@@ -1,0 +1,10 @@
+body{
+    background: rgb(95, 229, 95);
+    font-family: 'Poppins', sans-serif;
+}
+
+.header_div{
+    background: rgb(78, 178, 78);
+    color: white;
+    font-family: 'Geologica', sans-serif;
+}
